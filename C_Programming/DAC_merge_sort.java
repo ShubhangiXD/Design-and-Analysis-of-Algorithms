@@ -1,3 +1,5 @@
+package C_Programming;
+
 public class DAC_merge_sort {
     public static void main(String[] args) {
         int[] arr = { 34, 56, 87, 45, 76 };
